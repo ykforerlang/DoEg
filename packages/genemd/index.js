@@ -55,7 +55,6 @@ function srtToMd(srt, filename) {
     const md = `---
 layout: default
 title: ${path.basename(filename, '.srt')}
-description: 
 ---
 
 ${r}

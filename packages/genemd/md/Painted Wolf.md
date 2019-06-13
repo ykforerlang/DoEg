@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Painted Wolf
-description: 
 ---
 
 Here, in the heart of Africa, lives one of this great continent's most extraordinary yet misunderstood animals.

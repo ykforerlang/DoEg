@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Lion
-description: 
 ---
 
 Lions are the very image of majesty.

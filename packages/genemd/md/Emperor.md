@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Emperor
-description: 
 ---
 
 Autumn in Atka Bay, Antarctica.

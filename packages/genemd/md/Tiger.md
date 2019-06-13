@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Tiger
-description: 
 ---
 
 Tigers are the largest, most powerful, and perhaps the most loved of all the big cats.
