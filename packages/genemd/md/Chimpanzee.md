@@ -2,6 +2,7 @@
 layout: default
 title: Chimpanzee
 description: 
+img: /assets/Chimpanzee.jpg
 ---
 
 The family is one of the most powerful forces in nature.
