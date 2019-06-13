@@ -1,6 +1,9 @@
-# Tiger
+---
+layout: default
+title: Tiger
+description: 
+---
 
-----
 Tigers are the largest, most powerful, and perhaps the most loved of all the big cats.
 
 Yet, over the past century, their numbers have declined by 95%.

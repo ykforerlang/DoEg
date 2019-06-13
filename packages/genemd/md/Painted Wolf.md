@@ -1,6 +1,9 @@
-# Painted Wolf
+---
+layout: default
+title: Painted Wolf
+description: 
+---
 
-----
 Here, in the heart of Africa, lives one of this great continent's most extraordinary yet misunderstood animals.
 
 Animals that only thrive through remarkable team work, and through the strength and skill of their leaders.

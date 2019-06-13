@@ -1,6 +1,9 @@
-# Lion
+---
+layout: default
+title: Lion
+description: 
+---
 
-----
 Lions are the very image of majesty.
 
 And, indeed, of Africa itself.

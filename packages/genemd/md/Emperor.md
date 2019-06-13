@@ -1,6 +1,9 @@
-# Emperor
+---
+layout: default
+title: Emperor
+description: 
+---
 
-----
 Autumn in Atka Bay, Antarctica.
 
 Just a few weeks ago, this was open sea.

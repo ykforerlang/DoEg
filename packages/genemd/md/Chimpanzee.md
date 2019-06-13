@@ -1,6 +1,9 @@
-# Chimpanzee
+---
+layout: default
+title: Chimpanzee
+description: 
+---
 
-----
 The family is one of the most powerful forces in nature.
 
 Family life is full of wonder, beauty, and drama.
