@@ -1,8 +1,5 @@
----
-layout: default
-title: DoEg
-description: 看纪录片学英语
----
+# DoEg
+看纪录片学英语
 
 ## 王朝
 - [黑猩猩](./packages/genemd/md/Chimpanzee.md)
